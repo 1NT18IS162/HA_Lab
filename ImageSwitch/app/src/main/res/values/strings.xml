@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageSwitch</string>
+    <string name="swi">Switch</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+
+</resources>
